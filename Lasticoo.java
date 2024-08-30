@@ -16,5 +16,6 @@ public class Lasticoo {
         System.out.print("Lasticoo");
         System.out.print("Lasticooo");
 nisrina
+12345 test
     }
 }
